@@ -8,7 +8,7 @@
         <DisplayName>MidAirHealing</DisplayName>
         <Description>Allows you to heal in mid-air (as well as on water).</Description>
         <Version>1.1.0.0</Version>
-        <Link SHA256="DA49E007B43103FD0BFFCF00323DE1E6160184BC1E8BED3C03BAF1EE5BA85C78"><![CDATA[https://github.com/user500050/HKMidAirHealing/releases/download/v.1.1.0/MidAirHealing.zip]]></Link>
+        <Link SHA256="8BE1DFDA204CCA1DECA0A12943A4623221077B62EE57F01CB789E16AFD596A0D"><![CDATA[https://github.com/user500050/HKMidAirHealing/releases/download/v.1.1.0/MidAirHealing.zip]]></Link>
         <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/user500050/HKMidAirHealing]]>
