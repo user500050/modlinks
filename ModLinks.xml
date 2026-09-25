@@ -4,6 +4,27 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>MidAirHealing</Name>
+        <DisplayName>MidAirHealing</DisplayName>
+        <Description>Allows you to heal in mid-air (as well as on water).</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="DA49E007B43103FD0BFFCF00323DE1E6160184BC1E8BED3C03BAF1EE5BA85C78"><![CDATA[https://github.com/user500050/HKMidAirHealing/releases/download/v.1.1.0/MidAirHealing.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/user500050/HKMidAirHealing]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/user500050/HKMidAirHealing/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>user500050</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Input Display</Name>
         <Description>Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.</Description>
         <Version>1.0.0.0</Version>
